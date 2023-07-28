@@ -5,3 +5,4 @@ You can get any shit, when you mess with the real homies
 
 #### Contact Us For More Info.
 >evanskei@gmail.com My Email ID, Inbox for any bussiness deals.
+remote_theme: slate
